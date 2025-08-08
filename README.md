@@ -2,6 +2,16 @@
 
 Una plataforma avanzada de e-commerce que combina un carrito de compras funcional con un optimizador inteligente de presupuesto, desarrollada con tecnologías modernas de full-stack.
 
+## 🌐 Demo en Vivo
+
+- **🚀 Aplicación**: [https://smart-commerce-prueba-tecnica.vercel.app](https://smart-commerce-prueba-tecnica.vercel.app)
+- **⚙️ Backend API**: [https://smart-commerce-prueba-tecnica-production.up.railway.app](https://smart-commerce-prueba-tecnica-production.up.railway.app)
+- **📂 Repositorio**: [https://github.com/tu-usuario/Smart-Commerce---Prueba-tecnica](https://github.com/tu-usuario/Smart-Commerce---Prueba-tecnica)
+
+### 🧪 Probar la API
+- **Productos**: [/products](https://smart-commerce-prueba-tecnica-production.up.railway.app/products)
+- **Carrito**: [/cart](https://smart-commerce-prueba-tecnica-production.up.railway.app/cart)
+
 ## 🚀 Características Principales
 
 - **Catálogo de Productos**: Interfaz intuitiva para explorar y agregar productos al carrito
@@ -159,20 +169,4 @@ npm run build        # Build de producción
 npm run start        # Servidor de producción
 npm run lint         # Linter ESLint
 ```
-
-## 🚨 Solución de Problemas
-
-### El backend no inicia
-- Verifica que el puerto 3001 esté disponible
-- Asegúrate de haber ejecutado `npm install` en el directorio del backend
-
-### El frontend no se conecta al backend
-- Confirma que el backend esté ejecutándose en `http://localhost:3001`
-- Verifica que no haya errores de CORS en la consola del navegador
-
-### Errores de instalación
-- Elimina `node_modules` y `package-lock.json`, luego ejecuta `npm install` nuevamente
-- Verifica tu versión de Node.js con `node --version`
-
 ---
-
