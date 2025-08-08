@@ -5,12 +5,12 @@ Una plataforma avanzada de e-commerce que combina un carrito de compras funciona
 ## 🌐 Demo en Vivo
 
 - **🚀 Aplicación**: [https://smart-commerce-prueba-tecnica.vercel.app](https://smart-commerce-prueba-tecnica.vercel.app)
-- **⚙️ Backend API**: [https://smart-commerce-prueba-tecnica-production.up.railway.app](https://smart-commerce-prueba-tecnica-production.up.railway.app)
+- **⚙️ Backend API**: [https://smart-commerce-prueba-tecnica-production-9689.up.railway.app/](https://smart-commerce-prueba-tecnica-production-9689.up.railway.app/)
 - **📂 Repositorio**: [https://github.com/mateo-alvarezt21/Smart-Commerce---Prueba-tecnica](https://github.com/mateo-alvarezt21/Smart-Commerce---Prueba-tecnica)
 
 ### 🧪 Probar la API
-- **Productos**: [/products](https://smart-commerce-prueba-tecnica-production.up.railway.app/products)
-- **Carrito**: [/cart](https://smart-commerce-prueba-tecnica-production.up.railway.app/cart)
+- **Productos**: [/products](https://smart-commerce-prueba-tecnica-production-9689.up.railway.app//products)
+- **Carrito**: [/cart](https://smart-commerce-prueba-tecnica-production-9689.up.railway.app//cart)
 
 ## 🚀 Características Principales
 
@@ -151,22 +151,5 @@ smart-commerce/
 │   └── package.json
 │
 └── README.md
-```
-
-## 🔄 Scripts Disponibles
-
-### Backend
-```bash
-npm run start:dev    # Desarrollo con hot reload
-npm run start        # Producción
-npm run build        # Compilar TypeScript
-```
-
-### Frontend
-```bash
-npm run dev          # Servidor de desarrollo
-npm run build        # Build de producción
-npm run start        # Servidor de producción
-npm run lint         # Linter ESLint
 ```
 ---
