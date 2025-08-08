@@ -6,7 +6,7 @@ Una plataforma avanzada de e-commerce que combina un carrito de compras funciona
 
 - **🚀 Aplicación**: [https://smart-commerce-prueba-tecnica.vercel.app](https://smart-commerce-prueba-tecnica.vercel.app)
 - **⚙️ Backend API**: [https://smart-commerce-prueba-tecnica-production.up.railway.app](https://smart-commerce-prueba-tecnica-production.up.railway.app)
-- **📂 Repositorio**: [https://github.com/tu-usuario/Smart-Commerce---Prueba-tecnica](https://github.com/tu-usuario/Smart-Commerce---Prueba-tecnica)
+- **📂 Repositorio**: [https://github.com/mateo-alvarezt21/Smart-Commerce---Prueba-tecnica](https://github.com/mateo-alvarezt21/Smart-Commerce---Prueba-tecnica)
 
 ### 🧪 Probar la API
 - **Productos**: [/products](https://smart-commerce-prueba-tecnica-production.up.railway.app/products)
