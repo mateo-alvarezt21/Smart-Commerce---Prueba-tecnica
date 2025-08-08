@@ -10,13 +10,13 @@ async function bootstrap() {
     origin: [
       'http://localhost:3000',
       'http://127.0.0.1:3000',
-      'https://smart-commerce-prueba-tecnica.vercel.app',
+      'https://smart-commerce-prueba-tecnica-production-9689.up.railway.app/',
       /https:\/\/.*\.vercel\.app$/,
     ],
     credentials: true,
   });
 
-  const port = process.env.PORT || 3001;
+  const port = process.env.PORT || 8080;
   await app.listen(port, '0.0.0.0'); // ← Este es el cambio importante
   console.log(`🚀 Backend running on port ${port}`);
 }
